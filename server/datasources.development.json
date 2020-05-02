@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "somethingelse",
+    "password": "password",
+    "name": "db",
+    "user": "test",
+    "connector": "mongodb"
+  }
+}
